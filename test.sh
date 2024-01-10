@@ -1,2 +1,2 @@
 #!/bin/bash/
-echo hai
+echo hai this is kamal here
