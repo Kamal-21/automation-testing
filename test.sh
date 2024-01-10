@@ -1,4 +1,2 @@
 #!/bin/bash/
-<html>
-<h1>Hello World </h1>
-<html>
+echo hai
